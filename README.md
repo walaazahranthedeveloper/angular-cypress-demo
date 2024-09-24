@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+## Demo
+
+![Demo](https://github.com/walaazahranthedeveloper/angular-cypress-demo/blob/master/Screenshot%202024-09-25%20010039.png)
+
+![Demo](https://github.com/walaazahranthedeveloper/angular-cypress-demo/blob/master/Screenshot%202024-09-25%20005907.png)
